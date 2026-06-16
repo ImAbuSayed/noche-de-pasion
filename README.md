@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Noche de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-pasion/) |
+| **Get License** | [Request Licensing for Noche de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, tú sabes que esta noche es para los dos
+> Bailando suave en la disco, perdiendo el control
+> Tus ojos me llaman, me dicen que apague la voz
+> Siente el ritmo en tu cuerpo, quemando de amor
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
