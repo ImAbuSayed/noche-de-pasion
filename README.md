@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Noche de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-pasion/) |
+| **Get License** | [Commercial Licensing for Noche de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fd63fd038ae1f0d879f9957768b4e453d186b47b240fb402d295988e3d8d0932` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

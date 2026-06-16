@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche de pasión
+
+This log tracks the cryptographic history and versioning for the song **Noche de pasión** (noche-de-pasion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T22:32:43.251778 | `v1` | `fd63fd038ae1f0d879f9957768b4e453d186b47b240fb402d295988e3d8d0932` | `e400895f879ec96f15011cc23f41bb2d1b6473ed5cb6a5fd905254cd44426486` | `2026-06-16_noche-de-pasion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
